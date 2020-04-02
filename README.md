@@ -1,4 +1,4 @@
-# react-hello-world
+# react-app
 基于 webpack 的 hello world
 
 ## how to use
